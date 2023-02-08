@@ -1,8 +1,2 @@
-create a file school
-It's contents should be.
 #!/bin/bash
-0 string SCHOOL School data
 !:mime School
-Then close file and go terminal
-chmod u+x school
-file -C -m school
